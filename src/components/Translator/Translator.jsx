@@ -103,7 +103,7 @@ export const Translator = () => {
       />
 
       <div className="mt-4 text-xs text-gray-500 text-center">
-        Developed By LuffyZan
+        Developed By Achu
       </div>
     </div>
   );
